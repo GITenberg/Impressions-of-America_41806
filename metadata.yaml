@@ -1,0 +1,38 @@
+_repo: Impressions-of-America_41806
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41806-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wilde, Oscar
+    alias: Wilde, Oscar Fingal O'Flahertie Wills
+    birthdate: 1854
+    deathdate: 1900
+    gutenberg_agent_id: '111'
+    url: http://www.gutenberg.org/2009/agents/111
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Oscar_Wilde
+    - http://en.wikipedia.org/wiki/Oscar_Wilde
+  editor:
+    agent_name: Mason, Stuart
+    alias: Millard, Christopher Sclater
+    birthdate: 1872
+    deathdate: 1927
+    gutenberg_agent_id: '36540'
+    url: http://www.gutenberg.org/2009/agents/36540
+description: ''
+gutenberg_issued: '2013-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41806'
+  lccn: '15028180'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E151'
+- !lcsh 'United States -- Description and travel'
+title: Impressions of America
+url: http://www.gutenberg.org/ebooks/41806
